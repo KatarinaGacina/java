@@ -1,0 +1,6 @@
+tekst{$ FOR i 1 10 1 $}
+This is {$= i -2 2.25 - 5 $}-th time this message is generated.
+{$END$}   
+{$FOR i j -10 2 $}
+sin({$=i$}^2) = {$= i i * @sin "0.000" @decfmt $}
+{$END$}
