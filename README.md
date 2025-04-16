@@ -1,6 +1,6 @@
 # Selected Topics in Software Development 1
 
-These laboratory assigements were completed as part of the *Selected Topics in Software Development 1* course at college. The laboratory assigements are implemented in Java.
+These laboratory assigements were completed as part of the **Selected Topics in Software Development 1** course at college. The laboratory assigements are implemented in **Java**.
 
 **First laboratory assigement**: Implementation of resizable array-backed collection of objects (ArrayIndexedCollection) and an implementation of linked list-backed collection of objects (LinkedListIndexedCollection).
 
