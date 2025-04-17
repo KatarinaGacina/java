@@ -12,6 +12,12 @@ import java.nio.file.Paths;
 public class ParserDemo {
 
 	public static void main(String[] args) {
+		
+		if (args.length == 0 || args[0].trim().isEmpty()) {
+		    System.out.println("No file path provided.");
+		    return;
+		}
+		
 		String filepath = args[0];
 				
 		String docBody;
