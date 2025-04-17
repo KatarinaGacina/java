@@ -62,11 +62,11 @@ Example of usage:
 `java hr.fer.zemris.java.gui.charts.BarChartDemo "file.txt"` ,  
 where file.txt can for example look like this:  
 <pre> Number of people in the car
-  Frequency 
-  1,8 2,20 3,22 4,10 5,4
-  0 
-  22 
-  2 
+Frequency 
+1,8 2,20 3,22 4,10 5,4
+0 
+22 
+2 
 </pre>
 
 Calculator implementation.  
