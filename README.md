@@ -18,6 +18,7 @@ Demonstration by running:
 Improvements of previously implemented collections. 
 
 Development of a simple language processor.
+*Note: For running ParserDemo, there is an example file provided in the example folder.* 
 
 ## Third laboratory assigement: 
 Parametrization of previously implemented collections.  
@@ -67,7 +68,8 @@ Frequency
 0 
 22 
 2 
-</pre>
+</pre>  
+
 
 Calculator implementation.  
 
