@@ -7,11 +7,10 @@ Code is commented and has Junit tests.
 
 
 ## First laboratory assigement: 
-Implementation of resizable array-backed collection of objects - ArrayIndexedCollection.java 
+Implementation of resizable array-backed collection of objects - ArrayIndexedCollection.java  
+Stack implementation as instance of an ArrayIndexedCollection - ObjectStack.java
 
 Implementation of linked list-backed collection of objects - LinkedListIndexedCollection.java
-
-Implementation of 
 
 ## Second laboratory assigement: 
 Improvements of previously implemented collections. 
