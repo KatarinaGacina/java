@@ -58,6 +58,7 @@ Example of usage:
 Implementation of layout managers.  
 
 Calculator implementation.  
+*Note: not finished*
 
 Example of usage:  
 `java hr.fer.zemris.java.gui.calc.Calculator`  
