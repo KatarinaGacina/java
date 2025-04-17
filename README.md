@@ -55,9 +55,18 @@ Example of usage:
 
 ## Seventh laboratory assigement: 
 Implementation of layout managers.  
+
 Bar chart implementation.  
 
+Example of usage:  
+`java hr.fer.zemris.java.gui.charts.BarChartDemo "file.txt"` ,  
+where file.txt should be organized like this:  
+<pre> ```text Number of people in the car Frequency 1,8 2,20 3,22 4,10 5,4 0 22 2 ``` </pre>
+
 Calculator implementation.  
+
+Example of usage:  
+`java hr.fer.zemris.java.gui.calc.Calculator`
 
 ## Eighth laboratory assigement: 
 Implementation of text file editor.  
