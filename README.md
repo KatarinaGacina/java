@@ -29,7 +29,7 @@ Implementation of a hash table with open addressing that allows storage of key-v
 A simple database emulator implementation.  
 
 Example of usage:  
-`java hr.fer.oprpp1.hwo4.db.StudentDB`  
+`java hr.fer.oprpp1.hw04.db.StudentDB`  
 `> query jmbag = "0000000003"`
 
 ## Fifth laboratory assigement: 
@@ -54,7 +54,7 @@ Example of usage:
 `java hr.fer.zemris.java.fractals.Newton`
 
 ## Seventh laboratory assigement: 
-Implementation of layout managers. 
+Implementation of layout managers.  
 Bar chart implementation.  
 
 Calculator implementation.  
