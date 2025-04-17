@@ -8,8 +8,11 @@ Code is commented and has Junit tests and demo classes.
 
 ## First laboratory assigement: 
 Implementation of resizable array-backed collection of objects - ArrayIndexedCollection  
-Stack implementation as instance of an ArrayIndexedCollection - ObjectStack  
 Implementation of linked list-backed collection of objects - LinkedListIndexedCollection
+
+Stack implementation as instance of an ArrayIndexedCollection - ObjectStack  
+Demonstration by running: 
+(java -cp . hr.fer.oprpp1.custom.collections.demo.StackDemo "8 -2 / -1 *")
 
 ## Second laboratory assigement: 
 Improvements of previously implemented collections.  
