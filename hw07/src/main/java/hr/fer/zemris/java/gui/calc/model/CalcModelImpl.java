@@ -237,12 +237,12 @@ public class CalcModelImpl implements CalcModel {
 	public void setActiveOperand(double activeOperand) {
 		this.activeOperand = activeOperand;
 		
-		if (isNegative) {
+		/*if (isNegative) {
 			freezeValue = "-" + znamenke;
 		} else {
 			freezeValue = znamenke;
-		}
-		
+		}*/
+		freezeValue = null;
 		
 		broj = 0;
 		znamenke = "";

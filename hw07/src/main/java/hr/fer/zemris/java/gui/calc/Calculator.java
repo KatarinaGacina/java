@@ -325,8 +325,7 @@ public class Calculator extends JFrame {
 
 			@Override
 			public void actionPerformed(ActionEvent e) {
-
-				if (model.isActiveOperandSet()) {
+				if (model.isActiveOperandSet()) { //nedostaje uvjet kojim bi se omogućilo mijenjanje operatora na zadnji odabrani
 					model.setValue(model.getPendingBinaryOperation().applyAsDouble(model.getActiveOperand(), model.getValue()));
 				}
 				model.setPendingBinaryOperation(operator);
