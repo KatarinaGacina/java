@@ -6,10 +6,13 @@ Code is commented and has Junit tests.
 
 
 ## First laboratory assigement: 
-Implementation of resizable array-backed collection of objects (ArrayIndexedCollection) and an implementation of linked list-backed collection of objects (LinkedListIndexedCollection).
+Implementation of resizable array-backed collection of objects - ArrayIndexedCollection.java 
+Implementation of linked list-backed collection of objects - LinkedListIndexedCollection.java
+Implementation of 
 
 ## Second laboratory assigement: 
-Improvements of previously implemented collections. Development of a simple language processor.
+Improvements of previously implemented collections. 
+Development of a simple language processor.
 
 ## Third laboratory assigement: 
 Parametrization of previously implemented collections. Dictionary implementation. Implementation of a hash table with open addressing that allows storage of key-value pairs.
