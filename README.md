@@ -27,7 +27,7 @@ Implementation of a hash table with open addressing that allows storage of key-v
 ## Fourth laboratory assigement: 
 A simple database emulator implementation.
 
-run StudentDB.java  
+run hr.fer.oprpp1.hwo4.db.**StudentDB**
 Example of usage:
 `> query jmbag = "0000000003"`
 
