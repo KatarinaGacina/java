@@ -15,7 +15,8 @@ Demonstration by running:
 `java -cp . hr.fer.oprpp1.custom.collections.demo.StackDemo "8 -2 / -1 *"`
 
 ## Second laboratory assigement: 
-Improvements of previously implemented collections.  
+Improvements of previously implemented collections. 
+
 Development of a simple language processor.
 
 ## Third laboratory assigement: 
