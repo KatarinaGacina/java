@@ -21,28 +21,41 @@ Development of a simple language processor.
 
 ## Third laboratory assigement: 
 Parametrization of previously implemented collections.  
-Dictionary implementation.  
-Implementation of a hash table with open addressing that allows storage of key-value pairs.
+
+Dictionary implementation - Dictionary  
+Implementation of a hash table with open addressing that allows storage of key-value pairs - SimpleHashtable
 
 ## Fourth laboratory assigement: 
-A simple database emulator implementation.
-
-run hr.fer.oprpp1.hwo4.db.**StudentDB**
+A simple database emulator implementation.  
 Example of usage:
+`java hr.fer.oprpp1.hwo4.db.StudentDB`
 `> query jmbag = "0000000003"`
 
 ## Fifth laboratory assigement: 
-Implementation of functionality to encrypt and decrypt files using the AES algorithm with a 128-bit key, as well as to compute and verify SHA-256 file digests.  
-Implementation of command-line program (MyShell).
+Implementation of functionality to encrypt and decrypt files using the AES algorithm with a 128-bit key, as well as to compute and verify SHA-256 file digests.
+Example of usage:
+`java hr.fer.oprpp1.hw05.crypto.Crypto checksha file.bin`
+`java hr.fer.oprpp1.hw05.crypto.Crypto encrypt file.pdf file.crypted.pdf`
+`java hr.fer.oprpp1.hw05.crypto.Crypto decrypt file.crypted.pdf fileorig.pdf`
+
+Implementation of command-line program.  
+Example of usage:
+`java hr.fer.zemris.java.hw06.shell.MyShell`
 
 ## Sixth laboratory assigement: 
 Implemented a lightweight mathematical library with support for operations on complex numbers and polynomials.  
-Generation of fractal images using the Newton-Raphson iteration applied to complex polynomials.
+
+Generation of fractal images using the Newton-Raphson iteration applied to complex polynomials.  
+Example of usage:  
+`java hr.fer.zemris.java.fractals.Newton`
 
 ## Seventh laboratory assigement: 
-Implementation of layout managers.  
+Implementation of layout managers. 
+Bar chart implementation.  
+
 Calculator implementation.  
-Bar chart implementation.
 
 ## Eighth laboratory assigement: 
 Implementation of text file editor.
+Example of usage:
+`java hr.fer.oprpp1.hw08.jnotepadpp.JNotepadPP`
