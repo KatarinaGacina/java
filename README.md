@@ -17,7 +17,8 @@ Demonstration by running:
 ## Second laboratory assigement: 
 Improvements of previously implemented collections. 
 
-Development of a simple language processor.
+Development of a simple language processor.  
+*Note: For running ParserDemo, there is an example file provided in the examples folder.* 
 
 ## Third laboratory assigement: 
 Parametrization of previously implemented collections.  
@@ -56,6 +57,11 @@ Example of usage:
 ## Seventh laboratory assigement: 
 Implementation of layout managers.  
 
+Calculator implementation.  
+
+Example of usage:  
+`java hr.fer.zemris.java.gui.calc.Calculator`  
+
 Bar chart implementation.  
 
 Example of usage:  
@@ -67,12 +73,8 @@ Frequency
 0 
 22 
 2 
-</pre>
+</pre>  
 
-Calculator implementation.  
-
-Example of usage:  
-`java hr.fer.zemris.java.gui.calc.Calculator`
 
 ## Eighth laboratory assigement: 
 Implementation of text file editor.  
