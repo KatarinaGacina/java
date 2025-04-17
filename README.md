@@ -27,19 +27,19 @@ Implementation of a hash table with open addressing that allows storage of key-v
 
 ## Fourth laboratory assigement: 
 A simple database emulator implementation.  
-Example of usage:
-`java hr.fer.oprpp1.hwo4.db.StudentDB`
+Example of usage:  
+`java hr.fer.oprpp1.hwo4.db.StudentDB`  
 `> query jmbag = "0000000003"`
 
 ## Fifth laboratory assigement: 
-Implementation of functionality to encrypt and decrypt files using the AES algorithm with a 128-bit key, as well as to compute and verify SHA-256 file digests.
-Example of usage:
-`java hr.fer.oprpp1.hw05.crypto.Crypto checksha file.bin`
-`java hr.fer.oprpp1.hw05.crypto.Crypto encrypt file.pdf file.crypted.pdf`
-`java hr.fer.oprpp1.hw05.crypto.Crypto decrypt file.crypted.pdf fileorig.pdf`
+Implementation of functionality to encrypt and decrypt files using the AES algorithm with a 128-bit key, as well as to compute and verify SHA-256 file digests.  
+Example of usage:  
+`java hr.fer.oprpp1.hw05.crypto.Crypto checksha file.bin`  
+`java hr.fer.oprpp1.hw05.crypto.Crypto encrypt file.pdf file.crypted.pdf`  
+`java hr.fer.oprpp1.hw05.crypto.Crypto decrypt file.crypted.pdf fileorig.pdf`  
 
 Implementation of command-line program.  
-Example of usage:
+Example of usage:  
 `java hr.fer.zemris.java.hw06.shell.MyShell`
 
 ## Sixth laboratory assigement: 
@@ -56,6 +56,6 @@ Bar chart implementation.
 Calculator implementation.  
 
 ## Eighth laboratory assigement: 
-Implementation of text file editor.
-Example of usage:
+Implementation of text file editor.  
+Example of usage:  
 `java hr.fer.oprpp1.hw08.jnotepadpp.JNotepadPP`
