@@ -59,7 +59,7 @@ Implementation of layout managers.
 Bar chart implementation.  
 
 Example of usage:  
-`java hr.fer.zemris.java.gui.charts.BarChartDemo "file.txt"` ,  
+`java -cp . hr.fer.zemris.java.gui.charts.BarChartDemo "file.txt"` ,  
 where file.txt can for example look like this:  
 <pre>Number of people in the car
 Frequency 
