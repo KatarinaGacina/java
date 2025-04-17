@@ -27,6 +27,10 @@ Implementation of a hash table with open addressing that allows storage of key-v
 ## Fourth laboratory assigement: 
 A simple database emulator implementation.
 
+run StudentDB.java  
+Example of usage:
+`> query jmbag = "0000000003"`
+
 ## Fifth laboratory assigement: 
 Implementation of functionality to encrypt and decrypt files using the AES algorithm with a 128-bit key, as well as to compute and verify SHA-256 file digests.  
 Implementation of command-line program (MyShell).
